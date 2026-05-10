@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>English in Japanese</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #f2ede8;
+      color: #1a1a1a;
+      padding-bottom: 40px;
+    }
+
+    header {
+      background: #1a1a1a;
+      color: white;
+      padding: 20px 16px 16px;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    header h1 {
+      font-size: 20px;
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+
+    header p {
+      font-size: 13px;
+      color: rgba(255,255,255,0.5);
+      margin-bottom: 12px;
+    }
+
+    .nav {
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+      scrollbar-width: none;
+      -ms-overflow-style: none;
+      padding-bottom: 2px;
+    }
+
+    .nav::-webkit-scrollbar { display: none; }
+
+    .nav a {
+      white-space: nowrap;
+      color: rgba(255,255,255,0.6);
+      text-decoration: none;
+      font-size: 13px;
+      padding: 4px 10px;
+      border-radius: 20px;
+      border: 1px solid rgba(255,255,255,0.2);
+    }
+
+    .nav a:active { color: white; border-color: rgba(255,255,255,0.6); }
+
+    .section {
+      padding: 20px 16px 4px;
+    }
+
+    .section-title {
+      font-size: 13px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #888;
+      margin-bottom: 12px;
+    }
+
+    .card {
+      background: white;
+      border-radius: 12px;
+      padding: 16px;
+      margin-bottom: 10px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.07);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+    }
+
+    .card-text { flex: 1; min-width: 0; }
+
+    .english-word {
+      font-size: 17px;
+      font-weight: 600;
+      margin-bottom: 2px;
+    }
+
+    .katakana {
+      font-size: 20px;
+      margin-bottom: 2px;
+      color: #333;
+    }
+
+    .sounds-like {
+      font-size: 12px;
+      color: #888;
+      font-style: italic;
+    }
+
+    a.btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      background: #1a1a1a;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      padding: 10px 14px;
+      font-size: 13px;
+      font-weight: 500;
+      white-space: nowrap;
+      flex-shrink: 0;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    a.btn:active { background: #333; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>English → Japanese Sound</h1>
+  <p>Tap to hear how English words sound in Japanese</p>
+  <nav class="nav">
+    <a href="#getting-around">Getting around</a>
+    <a href="#food-drink">Food & drink</a>
+    <a href="#shopping">Shopping</a>
+    <a href="#hotel">Hotel</a>
+    <a href="#tech">Tech</a>
+  </nav>
+</header>
+
+<!-- GETTING AROUND -->
+<div class="section" id="getting-around">
+  <div class="section-title">🚃 Getting around</div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Taxi</div>
+      <div class="katakana">タクシー</div>
+      <div class="sounds-like">tah-ku-shee</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=タクシー&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Bus</div>
+      <div class="katakana">バス</div>
+      <div class="sounds-like">bah-su</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=バス&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Ticket</div>
+      <div class="katakana">チケット</div>
+      <div class="sounds-like">chee-keh-toh</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=チケット&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Platform</div>
+      <div class="katakana">プラットフォーム</div>
+      <div class="sounds-like">pu-rah-toh-foh-mu</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=プラットフォーム&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Elevator</div>
+      <div class="katakana">エレベーター</div>
+      <div class="sounds-like">eh-reh-beh-tah</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=エレベーター&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Escalator</div>
+      <div class="katakana">エスカレーター</div>
+      <div class="sounds-like">eh-su-kah-reh-tah</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=エスカレーター&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Passport</div>
+      <div class="katakana">パスポート</div>
+      <div class="sounds-like">pah-su-poh-toh</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=パスポート&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Map</div>
+      <div class="katakana">マップ</div>
+      <div class="sounds-like">mah-pu</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=マップ&op=translate" target="_blank">🔊 Play</a>
+  </div>
+</div>
+
+<!-- FOOD & DRINK -->
+<div class="section" id="food-drink">
+  <div class="section-title">🍜 Food & drink</div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Restaurant</div>
+      <div class="katakana">レストラン</div>
+      <div class="sounds-like">reh-su-toh-rahn</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=レストラン&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Menu</div>
+      <div class="katakana">メニュー</div>
+      <div class="sounds-like">meh-nyoo</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=メニュー&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Coffee</div>
+      <div class="katakana">コーヒー</div>
+      <div class="sounds-like">koh-hee</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=コーヒー&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Beer</div>
+      <div class="katakana">ビール</div>
+      <div class="sounds-like">bee-ru</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=ビール&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Wine</div>
+      <div class="katakana">ワイン</div>
+      <div class="sounds-like">wah-een</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=ワイン&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Ice cream</div>
+      <div class="katakana">アイスクリーム</div>
+      <div class="sounds-like">eye-su ku-ree-mu</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=アイスクリーム&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Cake</div>
+      <div class="katakana">ケーキ</div>
+      <div class="sounds-like">keh-kee</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=ケーキ&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Chocolate</div>
+      <div class="katakana">チョコレート</div>
+      <div class="sounds-like">choh-koh-reh-toh</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=チョコレート&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Hamburger</div>
+      <div class="katakana">ハンバーガー</div>
+      <div class="sounds-like">hahn-bah-gah</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=ハンバーガー&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Cheese</div>
+      <div class="katakana">チーズ</div>
+      <div class="sounds-like">chee-zu</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=チーズ&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Sauce</div>
+      <div class="katakana">ソース</div>
+      <div class="sounds-like">soh-su</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=ソース&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Fork</div>
+      <div class="katakana">フォーク</div>
+      <div class="sounds-like">foh-ku</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=フォーク&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Spoon</div>
+      <div class="katakana">スプーン</div>
+      <div class="sounds-like">su-poon</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=スプーン&op=translate" target="_blank">🔊 Play</a>
+  </div>
+</div>
+
+<!-- SHOPPING -->
+<div class="section" id="shopping">
+  <div class="section-title">🛍️ Shopping</div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Convenience store</div>
+      <div class="katakana">コンビニ</div>
+      <div class="sounds-like">kohn-bee-nee</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=コンビニ&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Supermarket</div>
+      <div class="katakana">スーパー</div>
+      <div class="sounds-like">soo-pah</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=スーパー&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Receipt</div>
+      <div class="katakana">レシート</div>
+      <div class="sounds-like">reh-shee-toh</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=レシート&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Card (credit)</div>
+      <div class="katakana">カード</div>
+      <div class="sounds-like">kah-doh</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=カード&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Free (no charge)</div>
+      <div class="katakana">フリー</div>
+      <div class="sounds-like">fu-ree · use 無料 (moo-ryoh) for "free of charge"</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=フリー&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Service</div>
+      <div class="katakana">サービス</div>
+      <div class="sounds-like">sah-bee-su</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=サービス&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Coin locker</div>
+      <div class="katakana">コインロッカー</div>
+      <div class="sounds-like">koh-een roh-kah</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=コインロッカー&op=translate" target="_blank">🔊 Play</a>
+  </div>
+</div>
+
+<!-- HOTEL -->
+<div class="section" id="hotel">
+  <div class="section-title">🏨 Hotel</div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Hotel</div>
+      <div class="katakana">ホテル</div>
+      <div class="sounds-like">hoh-teh-ru</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=ホテル&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Check-in</div>
+      <div class="katakana">チェックイン</div>
+      <div class="sounds-like">cheh-ku-een</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=チェックイン&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Check-out</div>
+      <div class="katakana">チェックアウト</div>
+      <div class="sounds-like">cheh-ku-ah-u-toh</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=チェックアウト&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Cancel</div>
+      <div class="katakana">キャンセル</div>
+      <div class="sounds-like">kyahn-seh-ru</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=キャンセル&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Toilet / Bathroom</div>
+      <div class="katakana">トイレ</div>
+      <div class="sounds-like">toh-ee-reh</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=トイレ&op=translate" target="_blank">🔊 Play</a>
+  </div>
+</div>
+
+<!-- TECH -->
+<div class="section" id="tech">
+  <div class="section-title">📱 Tech & daily life</div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Smartphone</div>
+      <div class="katakana">スマホ</div>
+      <div class="sounds-like">su-mah-hoh</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=スマホ&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">WiFi</div>
+      <div class="katakana">ワイファイ</div>
+      <div class="sounds-like">why-fye</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=ワイファイ&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Camera</div>
+      <div class="katakana">カメラ</div>
+      <div class="sounds-like">kah-meh-rah</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=カメラ&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Air conditioner</div>
+      <div class="katakana">エアコン</div>
+      <div class="sounds-like">eh-ah-kohn</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=エアコン&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="card-text">
+      <div class="english-word">Remote control</div>
+      <div class="katakana">リモコン</div>
+      <div class="sounds-like">ree-moh-kohn</div>
+    </div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=リモコン&op=translate" target="_blank">🔊 Play</a>
+  </div>
+</div>
+
+</body>
+</html>

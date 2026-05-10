@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Japan Phrases</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #f2ede8;
+      color: #1a1a1a;
+      padding-bottom: 40px;
+    }
+
+    header {
+      background: #1a1a1a;
+      color: white;
+      padding: 20px 16px 16px;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    header h1 {
+      font-size: 20px;
+      font-weight: 600;
+      margin-bottom: 12px;
+    }
+
+    .nav {
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+      scrollbar-width: none;
+      -ms-overflow-style: none;
+      padding-bottom: 2px;
+    }
+
+    .nav::-webkit-scrollbar { display: none; }
+
+    .nav a {
+      white-space: nowrap;
+      color: rgba(255,255,255,0.6);
+      text-decoration: none;
+      font-size: 13px;
+      padding: 4px 10px;
+      border-radius: 20px;
+      border: 1px solid rgba(255,255,255,0.2);
+      transition: all 0.15s;
+    }
+
+    .nav a:active, .nav a:hover {
+      color: white;
+      border-color: rgba(255,255,255,0.6);
+    }
+
+    .section {
+      padding: 20px 16px 4px;
+    }
+
+    .section-title {
+      font-size: 13px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #888;
+      margin-bottom: 12px;
+    }
+
+    .card {
+      background: white;
+      border-radius: 12px;
+      padding: 16px;
+      margin-bottom: 10px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.07);
+    }
+
+    .japanese {
+      font-size: 26px;
+      line-height: 1.3;
+      margin-bottom: 5px;
+    }
+
+    .romaji {
+      font-size: 13px;
+      color: #666;
+      font-style: italic;
+      margin-bottom: 3px;
+    }
+
+    .english {
+      font-size: 14px;
+      color: #333;
+      margin-bottom: 14px;
+    }
+
+    .tip {
+      font-size: 12px;
+      color: #888;
+      margin-bottom: 14px;
+      line-height: 1.4;
+    }
+
+    a.btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: #1a1a1a;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      padding: 11px 20px;
+      font-size: 14px;
+      font-weight: 500;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    a.btn:active { background: #333; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Japan Phrases 🇯🇵</h1>
+  <nav class="nav">
+    <a href="#essentials">Essentials</a>
+    <a href="#ordering">Ordering</a>
+    <a href="#whats-good">What's good?</a>
+    <a href="#market">At the market</a>
+    <a href="#paying">Paying</a>
+    <a href="#hotel">Hotel</a>
+    <a href="#compliments">Compliments</a>
+    <a href="#allergens">Allergens</a>
+  </nav>
+</header>
+
+<!-- ESSENTIALS -->
+<div class="section" id="essentials">
+  <div class="section-title">🙏 Essentials</div>
+
+  <div class="card">
+    <div class="japanese">すみません</div>
+    <div class="romaji">Sumimasen</div>
+    <div class="english">"Excuse me" — gets anyone's attention</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=すみません&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">ありがとうございます</div>
+    <div class="romaji">Arigatou gozaimasu</div>
+    <div class="english">"Thank you very much"</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=ありがとうございます&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">いただきます</div>
+    <div class="romaji">Itadakimasu</div>
+    <div class="english">Said before eating — no direct translation, roughly "I gratefully receive this"</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=いただきます&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">ごちそうさまでした</div>
+    <div class="romaji">Gochisousama deshita</div>
+    <div class="english">"Thank you for the meal" — always say this when leaving a restaurant</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=ごちそうさまでした&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">わかりません</div>
+    <div class="romaji">Wakarimasen</div>
+    <div class="english">"I don't understand"</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=わかりません&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">英語を話せますか？</div>
+    <div class="romaji">Eigo wo hanasemasu ka?</div>
+    <div class="english">"Do you speak English?"</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=英語を話せますか？&op=translate" target="_blank">🔊 Play</a>
+  </div>
+</div>
+
+<!-- ORDERING -->
+<div class="section" id="ordering">
+  <div class="section-title">🍣 Ordering at the counter</div>
+
+  <div class="card">
+    <div class="japanese">おまかせでお願いします</div>
+    <div class="romaji">Omakase de onegai shimasu</div>
+    <div class="english">"Chef's selection, please" — let them choose everything</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=おまかせでお願いします&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">これをください</div>
+    <div class="romaji">Kore wo kudasai</div>
+    <div class="english">"This one, please" — point while saying it</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=これをください&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">これを一つください</div>
+    <div class="romaji">Kore wo hitotsu kudasai</div>
+    <div class="english">"One of these, please" — point at the blackboard or another diner's plate</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=これを一つください&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">もう一つください</div>
+    <div class="romaji">Mou hitotsu kudasai</div>
+    <div class="english">"One more, please"</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=もう一つください&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">さびぬきでお願いします</div>
+    <div class="romaji">Sabi nuki de onegai shimasu</div>
+    <div class="english">"Without wasabi, please" — sabi is counter slang for wasabi</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=さびぬきでお願いします&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">一人です</div>
+    <div class="romaji">Hitori desu</div>
+    <div class="english">"Just one person"</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=一人です&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">二人です</div>
+    <div class="romaji">Futari desu</div>
+    <div class="english">"Two people"</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=二人です&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">五人です</div>
+    <div class="romaji">Gonin desu</div>
+    <div class="english">"Five people" — your group size</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=五人です&op=translate" target="_blank">🔊 Play</a>
+  </div>
+</div>
+
+<!-- WHAT'S GOOD -->
+<div class="section" id="whats-good">
+  <div class="section-title">🤔 What's good / seasonal?</div>
+
+  <div class="card">
+    <div class="japanese">おすすめは何ですか？</div>
+    <div class="romaji">Osusume wa nan desu ka?</div>
+    <div class="english">"What do you recommend?"</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=おすすめは何ですか？&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">今が旬の魚は何ですか？</div>
+    <div class="romaji">Ima ga shun no sakana wa nan desu ka?</div>
+    <div class="english">"What fish is in season right now?" — asking this earns respect</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=今が旬の魚は何ですか？&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">今日は何が新鮮ですか？</div>
+    <div class="romaji">Kyou wa nani ga shinsen desu ka?</div>
+    <div class="english">"What is fresh today?"</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=今日は何が新鮮ですか？&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">これは何ですか？</div>
+    <div class="romaji">Kore wa nan desu ka?</div>
+    <div class="english">"What is this?" — point at anything</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=これは何ですか？&op=translate" target="_blank">🔊 Play</a>
+  </div>
+</div>
+
+<!-- AT THE MARKET -->
+<div class="section" id="market">
+  <div class="section-title">🐟 At the fish market</div>
+
+  <div class="card">
+    <div class="japanese">今日入りましたか？</div>
+    <div class="romaji">Kyou hairimashita ka?</div>
+    <div class="english">"Did this come in today?" — asking if it's fresh today</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=今日入りましたか？&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">いくらですか？</div>
+    <div class="romaji">Ikura desu ka?</div>
+    <div class="english">"How much is it?" — note: ikura also means salmon roe</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=いくらですか？&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">写真を撮っていいですか？</div>
+    <div class="romaji">Shashin wo totte ii desu ka?</div>
+    <div class="english">"May I take a photo?" — always ask at market stalls</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=写真を撮っていいですか？&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">袋に入れてください</div>
+    <div class="romaji">Fukuro ni irete kudasai</div>
+    <div class="english">"Please put it in a bag"</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=袋に入れてください&op=translate" target="_blank">🔊 Play</a>
+  </div>
+</div>
+
+<!-- PAYING -->
+<div class="section" id="paying">
+  <div class="section-title">💴 Paying</div>
+
+  <div class="card">
+    <div class="japanese">お会計をお願いします</div>
+    <div class="romaji">O-kaikei wo onegai shimasu</div>
+    <div class="english">"Check, please" — use this, not "oaiso"</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=お会計をお願いします&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">現金のみですか？</div>
+    <div class="romaji">Genkin nomi desu ka?</div>
+    <div class="english">"Cash only?"</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=現金のみですか？&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">クレジットカードは使えますか？</div>
+    <div class="romaji">Kurejitto kaado wa tsukaemasu ka?</div>
+    <div class="english">"Can I pay by credit card?"</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=クレジットカードは使えますか？&op=translate" target="_blank">🔊 Play</a>
+  </div>
+</div>
+
+<!-- HOTEL -->
+<div class="section" id="hotel">
+  <div class="section-title">🏨 Hotel & getting around</div>
+
+  <div class="card">
+    <div class="japanese">チェックインをお願いします</div>
+    <div class="romaji">Chekku-in wo onegai shimasu</div>
+    <div class="english">"I'd like to check in"</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=チェックインをお願いします&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">予約をしています</div>
+    <div class="romaji">Yoyaku wo shite imasu</div>
+    <div class="english">"I have a reservation"</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=予約をしています&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">タクシーを呼んでいただけますか？</div>
+    <div class="romaji">Takushii wo yonde itadakemasu ka?</div>
+    <div class="english">"Could you call a taxi for me?"</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=タクシーを呼んでいただけますか？&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">トイレはどこですか？</div>
+    <div class="romaji">Toire wa doko desu ka?</div>
+    <div class="english">"Where is the bathroom?"</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=トイレはどこですか？&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">〇〇はどこですか？</div>
+    <div class="romaji">〇〇 wa doko desu ka?</div>
+    <div class="english">"Where is 〇〇?" — replace 〇〇 with any place name</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=駅はどこですか？&op=translate" target="_blank">🔊 Play (example: "Where is the station?")</a>
+  </div>
+</div>
+
+<!-- COMPLIMENTS -->
+<div class="section" id="compliments">
+  <div class="section-title">😋 Compliments</div>
+
+  <div class="card">
+    <div class="japanese">おいしい！</div>
+    <div class="romaji">Oishii!</div>
+    <div class="english">"Delicious!" — say this at the counter, the chef will appreciate it</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=おいしい！&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">最高です</div>
+    <div class="romaji">Saikou desu</div>
+    <div class="english">"It's the best!"</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=最高です&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">いい仕事ですね</div>
+    <div class="romaji">Ii shigoto desu ne</div>
+    <div class="english">"Beautiful work" — complimenting the chef's technique directly, very appreciated</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=いい仕事ですね&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">また来ます</div>
+    <div class="romaji">Mata kimasu</div>
+    <div class="english">"I'll come again" — one of the best compliments you can give</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=また来ます&op=translate" target="_blank">🔊 Play</a>
+  </div>
+</div>
+
+<!-- ALLERGENS -->
+<div class="section" id="allergens">
+  <div class="section-title">⚠️ Allergens</div>
+
+  <div class="card">
+    <div class="japanese">アレルギーがあります</div>
+    <div class="romaji">Arerugii ga arimasu</div>
+    <div class="english">"I have an allergy"</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=アレルギーがあります&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">〇〇は食べられません</div>
+    <div class="romaji">〇〇 wa taberaremasen</div>
+    <div class="english">"I cannot eat 〇〇"</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=これは食べられません&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">甲殻類アレルギーがあります</div>
+    <div class="romaji">Koukakurui arerugii ga arimasu</div>
+    <div class="english">"I have a shellfish allergy"</div>
+    <div class="tip">For serious allergies, carry a printed Japanese allergy card — verbal communication alone can miss things at a busy counter.</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=甲殻類アレルギーがあります&op=translate" target="_blank">🔊 Play</a>
+  </div>
+
+  <div class="card">
+    <div class="japanese">生魚が食べられません</div>
+    <div class="romaji">Namazakana ga taberaremasen</div>
+    <div class="english">"I cannot eat raw fish"</div>
+    <a class="btn" href="https://translate.google.com/?sl=ja&tl=en&text=生魚が食べられません&op=translate" target="_blank">🔊 Play</a>
+  </div>
+</div>
+
+</body>
+</html>
