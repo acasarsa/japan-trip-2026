@@ -2,12 +2,16 @@
 
 A shared knowledge base for our Japan trip.
 
+## Action Needed
+
+**Sake bars** — options researched and ready for group input. None are on the itinerary yet. Review [sake-bars.md](food-bev/sake-bars.md) (full directory) and [scheduling analysis](food-bev/scheduling/sake-bars.md) (what fits where) and decide which to add.
+
 ## Structure
 
 - `itinerary/` — day-by-day plans and schedules
 - `destinations/` — notes on each city and place we're visiting
 - `logistics/` — flights, accommodations, transportation
-- `food-bev/` — restaurants, food recommendations, and bar research. Check [sake-bars.md](food-bev/sake-bars.md) for sake bar options across all three cities — these haven't been added to the itinerary yet and need group input on which to include.
+- `food-bev/` — restaurants, food recommendations, and bar research
 - `activities/` — things to do, tickets, reservations
 - `budget/` — cost estimates and tracking
 - `packing/` — packing lists
