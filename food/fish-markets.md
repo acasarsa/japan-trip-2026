@@ -2,6 +2,8 @@
 
 Crowd-sourced from Reddit (r/JapanTravel, r/japan, r/tokyo, r/osaka) and travel communities. Compiled May 2026.
 
+For how to order, Japanese phrases, fish kanji, and etiquette: [Sushi Ordering Guide](sushi-ordering-guide.md)
+
 ---
 
 ## Tokyo
@@ -95,46 +97,27 @@ Five-block covered market, 100+ shops. A food shopping and tasting street, not a
 
 ---
 
-## Fish to Know and Order
+## What to Order in Late May
 
-| Fish | Japanese | Notes |
-|------|----------|-------|
-| Kamatoro | かまとろ | Collar/neck of tuna; rarest cut; richer than otoro; only at specialist stalls |
-| Kohada | 小鰭 | Gizzard shad; traditional chef's test fish; cured in salt then vinegar; order at Okame or Aeya |
-| Shime saba | 締め鯖 | Vinegar-cured mackerel; the Edomae preservation style; becomes oshizushi in Kyoto |
-| Anago | 穴子 | Saltwater eel; lighter and more delicate than unagi; simmered in soy/sake/sugar |
-| Torigai | 鳥貝 | Japanese cockle; April–May only — we're right in the window, order it if you see it |
-| Botan ebi | 牡丹海老 | Peony shrimp; served raw, intensely sweet; ask for the head (fried or salted, also eaten) |
-| Nodoguro | のどぐろ | Blackthroat sea perch; prized in Japan, unknown abroad; rich, fatty white fish |
-| Bafun uni | 馬糞雲丹 | Richer, more umami, Hokkaido-sourced; peaks in winter but still available in May |
-| Murasaki uni | 紫雲丹 | Milder, sweeter; peaks in summer — May is the transition window, both available |
+Late May is a strong window. Prioritize these — everything here is at or near peak.
 
-**Note on timing:** Our trip (May 20–31) is peak season for torigai — if you see it on a blackboard, order it without hesitation. Both uni varieties should be available.
+| Fish | Japanese | Flavor | Don't miss |
+|------|----------|--------|------------|
+| Torigai (cockle) | 鳥貝 | Sweet, briny, snappy | Peak right now — gone by June. Order on sight. |
+| Katsuo (bonito) | 鰹 | Lean, clean; tataki-style (seared outside, raw inside) | "Hatsugatsuo" — first bonito of the year, a cultural event. Will be on blackboards. |
+| Aji (horse mackerel) | 鯵 | Oily, rich | Spring peak; excellent as nigiri or tataki |
+| Hotate (scallop) | 帆立 | Sweet, creamy, often served raw | Hokkaido peak May–August |
+| Shiro ika (cuttlefish) | 白イカ | Sweeter and more tender than squid | Spring–summer peak |
+| Murasaki uni | 紫雲丹 | Mild, sweet | Coming into summer peak |
+| Bafun uni | 馬糞雲丹 | Richer, more umami | Hokkaido supply still strong before transition |
+| Botan ebi (peony shrimp) | 牡丹海老 | Intensely sweet; served raw | Ask for the head — fried or salted, also eaten |
+| Kamatoro | かまとろ | Richer than otoro; melt-in-mouth | Rarest tuna cut (~500g per 100kg fish); Maguroya Kurogin only |
+| Kohada (gizzard shad) | 小鰭 | Briny, acidic, traditional Edomae | The chef's test fish; order at Okame or Aeya |
+| Nodoguro | のどぐろ | Rich, fatty white fish | Prized in Japan, unknown abroad; Tsukiji Yaki Uo Ishikawa |
 
----
+**Skip:** Fugu (October–March peak), oysters (winter peak, quality variable in May).
 
-## What's in Season: Late May
-
-Our trip (May 20–31) falls in a strong window for seafood. Things to prioritize:
-
-| Fish | Japanese | Why May |
-|------|----------|---------|
-| Torigai (cockle) | 鳥貝 | Peak season April–May; sweetest before summer warmth; gone by June |
-| Murasaki uni | 紫雲丹 | Summer variety coming into peak; mild and sweet |
-| Bafun uni | 馬糞雲丹 | Hokkaido supply still strong in May before summer transition |
-| Aji (horse mackerel) | 鯵 | Spring–summer peak; oily, rich; excellent as nigiri or tataki |
-| Katsuo (bonito/skipjack) | 鰹 | "First bonito" (hatsugatsuo) runs May–June; prized seasonal event in Japan; lean, clean flavor |
-| Shiro ika (cuttlefish) | 白イカ | Spring–summer peak; sweeter and more tender than squid |
-| Hotate (scallop) | 帆立 | Hokkaido scallops peak May–August; sweet, creamy, often served raw |
-| Isaki (grunt fish) | 伊佐木 | Early summer fish; mild white flesh; less common but worth ordering if on the board |
-| Botan ebi (peony shrimp) | 牡丹海老 | Available May; served raw, intensely sweet |
-
-**Katsuo note:** "Hatsugatsuo" (first bonito of the season) is a genuine cultural event in Japan — there's a saying that a true Edo person pawns their wife's kimono to eat the first bonito. It'll be on menus and blackboards in late May. Lean, firm, usually served tataki-style (seared exterior, raw inside) with ginger and ponzu. Order it.
-
-**What's past peak or not yet in season:**
-- Fugu (pufferfish) — October–March peak; not ideal in May
-- Anago (saltwater eel) — available but summer peak is June–August
-- Oysters — winter peak; May is the tail end, quality variable
+→ Phone-friendly version: [Tsukiji Market Cheat Sheet](cheat-sheets/tsukiji-market-card.md)
 
 ---
 
