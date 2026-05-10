@@ -110,6 +110,66 @@ If you see these on a board — order them:
 
 ---
 
+## Point at This (show the chef)
+
+For blackboard items or when you can't say it — show them the Japanese:
+
+---
+
+**Gizzard shad (the chef's test fish)**
+# 小鰭
+*(kohada)*
+
+---
+
+**Cockle — peak season now**
+# 鳥貝
+*(torigai)*
+
+---
+
+**First bonito of the year**
+# 鰹
+*(katsuo)*
+
+---
+
+**Horse mackerel**
+# 鯵
+*(aji)*
+
+---
+
+**Cured mackerel**
+# 締め鯖
+*(shime saba)*
+
+---
+
+**Peony shrimp (raw, sweet)**
+# 牡丹海老
+*(botan ebi)*
+
+---
+
+**Blackthroat sea perch (grilled)**
+# のどぐろ
+*(nodoguro)*
+
+---
+
+**"What's in season right now?"**
+# 今が旬の魚は何ですか？
+*(Ima ga shun no sakana wa nan desu ka?)*
+
+---
+
+**"One of these, please"** (point while saying)
+# これを一つください
+*(Kore wo hitotsu kudasai)*
+
+---
+
 ## Phrases to Use
 
 **Getting something:** `Kore wo kudasai` — "This one, please" (point at it)  

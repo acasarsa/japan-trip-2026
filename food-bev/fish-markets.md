@@ -101,19 +101,19 @@ Five-block covered market, 100+ shops. A food shopping and tasting street, not a
 
 Late May is a strong window. Prioritize these — everything here is at or near peak.
 
-| Fish | Japanese | Flavor | Don't miss |
-|------|----------|--------|------------|
-| Torigai (cockle) | 鳥貝 | Sweet, briny, snappy | Peak right now — gone by June. Order on sight. |
-| Katsuo (bonito) | 鰹 | Lean, clean; tataki-style (seared outside, raw inside) | "Hatsugatsuo" — first bonito of the year, a cultural event. Will be on blackboards. |
-| Aji (horse mackerel) | 鯵 | Oily, rich | Spring peak; excellent as nigiri or tataki |
-| Hotate (scallop) | 帆立 | Sweet, creamy, often served raw | Hokkaido peak May–August |
-| Shiro ika (cuttlefish) | 白イカ | Sweeter and more tender than squid | Spring–summer peak |
-| Murasaki uni | 紫雲丹 | Mild, sweet | Coming into summer peak |
-| Bafun uni | 馬糞雲丹 | Richer, more umami | Hokkaido supply still strong before transition |
-| Botan ebi (peony shrimp) | 牡丹海老 | Intensely sweet; served raw | Ask for the head — fried or salted, also eaten |
-| Kamatoro | かまとろ | Richer than otoro; melt-in-mouth | Rarest tuna cut (~500g per 100kg fish); Maguroya Kurogin only |
-| Kohada (gizzard shad) | 小鰭 | Briny, acidic, traditional Edomae | The chef's test fish; order at Okame or Aeya |
-| Nodoguro | のどぐろ | Rich, fatty white fish | Prized in Japan, unknown abroad; Tsukiji Yaki Uo Ishikawa |
+| Fish | 日本語 | Notes |
+|------|--------|-------|
+| Torigai (cockle) | 鳥貝 | Sweet, briny, snappy · **Peak now — gone by June** |
+| Katsuo (bonito) | 鰹 | Lean, clean; tataki-style · **Hatsugatsuo season — cultural event, on every blackboard** |
+| Aji (horse mackerel) | 鯵 | Oily, rich · Spring peak; good as nigiri or tataki |
+| Hotate (scallop) | 帆立 | Sweet, creamy, often raw · Hokkaido peak May–August |
+| Shiro ika (cuttlefish) | 白イカ | Sweeter and more tender than squid · Spring–summer peak |
+| Murasaki uni | 紫雲丹 | Mild, sweet · Coming into summer peak |
+| Bafun uni | 馬糞雲丹 | Richer, more umami · Hokkaido supply still strong |
+| Botan ebi (peony shrimp) | 牡丹海老 | Intensely sweet, raw · Ask for the head (fried or salted) |
+| Kamatoro | かまとろ | Richer than otoro, melt-in-mouth · Rarest cut; Maguroya Kurogin only |
+| Kohada (gizzard shad) | 小鰭 | Briny, acidic, traditional Edomae · Chef's test fish; Okame or Aeya |
+| Nodoguro | のどぐろ | Rich, fatty white fish · Prized in Japan; Tsukiji Yaki Uo Ishikawa |
 
 **Skip:** Fugu (October–March peak), oysters (winter peak, quality variable in May).
 
