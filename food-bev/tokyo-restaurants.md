@@ -47,6 +47,17 @@ See also: [Fish Markets](fish-markets.md) · [Sushi Ordering Guide](sushi-orderi
 
 ---
 
+## Tatler Dining Tokyo Best (via group submission)
+
+- **Loup de Mer** — Specialises in curry and yoshoku (Japanese-style western cuisine). Must-try: dry curry with fluffy omelette over rice. (Tatler Best Tokyo)
+- **Sanchokuya Taka** — Sake restaurant, set course of fresh seafood. Rules: no photos, pay before meal, reservations non-negotiable. (Tatler Best Tokyo)
+- **Jean François** — Bakery by award-winning pastry chef Jean-François Lemercier. Chocolate croissant uses bean-to-bar chocolate. Go early — sells out. (Tatler Best Tokyo)
+- **Fileja** — 8-seat pasta omakase run by a single chef trained in Sardinia. Handmade pastas, natural wines, incredible value. Reservations essential. (Tatler Best Tokyo)
+- **Shinbashi Matoi** — Ramen hidden in a narrow alley, local salaryman spot. "Ikaboshi toripaitan" (dried squid + chicken broth) — rich and umami-layered. (Tatler Best Tokyo)
+- **Ginza Kimuraya** — Bakery, Chuo City / Ginza. (Saved by Marshall)
+
+---
+
 ## Ramen & Noodles
 
 **Michelin / Top picks**

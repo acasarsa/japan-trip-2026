@@ -61,9 +61,25 @@
 
 ## Shopping
 
-- **Onitsuka Tiger** — Sneakers (on itinerary May 23)
+**Sneakers**
+- **Onitsuka Tiger** — On itinerary May 23
+- **Atmos** — Legendary collaborations and exclusive releases. Multiple locations.
+- **Kicks Lab** — Rare sneakers and streetwear culture
+- **Mita Sneakers** — Well-known Japanese boutique with unique collabs
+- **2nd Street** — Good for secondhand sneakers and streetwear deals
+- **Undefeated** — Exclusive drops and limited sneakers
+- **ABC-Mart Grand Stage** — Best for Nike, Adidas, New Balance with huge selection
+- Tip: Start in Harajuku or Shibuya — can hit several within a few blocks
+
+**Clothing / Boutiques**
+- **Beams Japan** — Multi-brand Japanese clothing store, Shinjuku. (Saved by Marshall)
+- **Shibuya designer second-hand** — Shibuya has a cluster of consignment/vintage shops with designer and luxury goods. Worth exploring around Daikanyama and Omotesando too.
+
+→ Full vintage & resale guide: [tokyo-vintage-shopping.md](tokyo-vintage-shopping.md)
+
+**Other**
 - **Ginza Razin** — Watch store (on itinerary May 22)
-- **Kappabashi Kitchen Tools Street** — Chef knives, ceramics, professional kitchen gear. Also good for souvenirs. Asakusa.
+- **Kappabashi Kitchen Tools Street** — Chef knives, ceramics, professional kitchen gear. Asakusa.
 - **Noritake** — Tableware store in Ginza
 - **Itoya** — Stationery, Ginza
 - **Jins** — Affordable glasses (~¥40)
@@ -71,11 +87,13 @@
 - **Ameyoko Market** — Outdoor market near Ueno, good for cheap shopping
 - **Omotesando** — "Rodeo Drive of Tokyo"
 - **Takeshita Street (Harajuku)** — Quirky, youth fashion
-- **Vintage shops** — Shimokitazawa neighborhood is the best for vintage
+- **Shimokitazawa** — Best neighborhood for vintage shops
 
 ---
 
 ## Nightlife
+
+→ Full underground/weird guide: [tokyo-weird-underground.md](tokyo-weird-underground.md)
 
 - **Golden Gai** — 200+ tiny bars in Shinjuku alleys. Different vibe in every bar.
 - **Omoide Yokocho (Memory Lane)** — Yakitori alley, smoky and atmospheric
