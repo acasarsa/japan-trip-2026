@@ -64,6 +64,7 @@
 
 | | |
 |---|---|
+| [Translation Tools](communication/translation-tools.md) | External apps & sites (Google Translate, DeepL, Jisho, etc.) |
 | [Phrase Guide](communication/phrases.html) | Japanese phrases with Google Translate audio links |
 | [Japanese English Pronunciation](communication/katakana-english.html) | English words in Japanese accent, with audio |
 | [Japanese Loanwords Reference](logistics/japanese-english.md) | Katakana English explained |
